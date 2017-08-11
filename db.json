@@ -1,0 +1,32 @@
+{
+  "vehicules": [
+    {
+      "model": "A3",
+      "vendor": "Audi",
+      "price": 125000,
+      "id": 2
+    },
+    {
+      "model": "Argo",
+      "vendor": "Fiat",
+      "price": 43000,
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "title": "Kashmir",
+      "author": "Led Zeppelin",
+      "id": 2
+    },
+    {
+      "title": "TAKE ON ME",
+      "author": "A-HA",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
